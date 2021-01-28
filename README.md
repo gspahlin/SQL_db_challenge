@@ -14,6 +14,7 @@ hp_db_construction.sql - This file contains the SQL commands to set up the datab
 
 hp_db_construction.sql - This file contains SQL queries which return the information requested by the questions (see the comments for the questions).
 
-hp_db_analysis.ipynb  - This is the Jupyter Notebook I used for the final analysis and plots. 
+hp_db_analysis.ipynb  - This is the Jupyter Notebook I used for the final analysis and plots. Note: connecting to the PostgreSQL database required me
+to read in my password, which I have removed for security reasons.
 
 data_files - This folder contains the 6 .csv files used in this exercise.
