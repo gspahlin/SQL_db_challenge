@@ -3,7 +3,7 @@
 This repo contains the code I used to solve a database exercise. The exercise was to use data from a fictional Hewlet Packard employment database to reconstruct
 the database in PosgreSQL. The data comes in 6 .csv files, which were first modeled with an Entitly Relationship Diagram. I then use this ERD to write 
 six tables using SQL, and import each csv file into the corresponding table. After this was finished, I wrote queries to answer 8 questions about the data
-(these questions are reproduced in the comments of the queries). Finally connected to my database and uploaded it to a Jupyter notebook, which I used to 
+(these questions are reproduced in the comments of the queries). Finally, I connected to my database and uploaded it to a Jupyter notebook, which I used to 
 visualize the data. 
 
 ***Files***
